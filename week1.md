@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Week 1
-by: "Elijah McClary"
 ---
 
 Entry: #310524
