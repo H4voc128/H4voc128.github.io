@@ -1,7 +1,5 @@
 ## About My Mentor
 
-My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
-
-[Mentor's Website](https://htilua.org/about-the-pi)
+My mentor, Ms. Tasmeen, is a graduate student who’s work focuses on computer-industry applcations. She is a newly birthed mother so she currently has alot on her plate but I am grateful she still makes time for the team and I. She also is an international student which allows me to collect further data on the world without the popular bias of the US. Ms Tasmeen proved herself capable of leading the team on day one so she has earned my respect.
 
 
