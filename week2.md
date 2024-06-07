@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 2
-logo: Week1pic.png
+logo: Week2pic.png
 ---
 
 Entry: #070624
