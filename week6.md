@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 5
+title: Week 6
 ---
 
 Entry: #070524
