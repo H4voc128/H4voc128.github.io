@@ -11,4 +11,5 @@ Thurdsay was July the 4th (FREEDOM DAY!!!) and Friday we finally organized and g
 This is the summary of this week's events
 
 Au revoir!
+
 [Back](./)
