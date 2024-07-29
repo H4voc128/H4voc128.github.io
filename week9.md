@@ -9,7 +9,6 @@ Alright! RLR and Jaywalking detection has been working for a bit. Many bugs have
 
 
 Obj_ID ||  Start_time  ||  End_time  ||
----------------------------------------
   19   ||   05:40:15   ||  05:40:23  ||
   32   ||   05:45:34   ||  05:45:45  ||
   etc...
