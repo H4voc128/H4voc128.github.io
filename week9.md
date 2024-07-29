@@ -14,7 +14,7 @@ ID ||  Start_time  ||  End_time  ||<br />
   etc...
 
 
-We also have our final presentation to arrange, our technical paper to write and mor code bugs to squash. So far, our presentation and rough draft are about 80% complete. We need to run our code a bit more for conclusive results in accuracy, limitations, and potential evolutions. 
+We also have our final presentation to arrange, our technical paper to write and more code bugs to squash. So far, our presentation and rough draft are about 80% complete. We need to run our code a bit more for conclusive results in accuracy, limitations, and potential evolutions. 
 
 Adios!!!
 
