@@ -9,6 +9,6 @@ We officially made it past the halfway point of the internship! Throughout week 
 
 This is my Week 7 report!
 
-Until next Week!!!
+Until next week!!!
 
 [Back](./)
